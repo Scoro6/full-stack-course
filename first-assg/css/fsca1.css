@@ -43,8 +43,8 @@ position:absolute;
     border-left: 2px solid black;
     border-top: 1px solid black;
     border-right: 1px solid black;
-    width:30%;
-    padding:2%;
+    width:40%;
+    padding:1%;
 }
 #sushi{
     background-color: #C14543;
@@ -57,8 +57,8 @@ position:absolute;
     border-left: 2px solid black;
     border-top: 1px solid black;
     border-right: 1px solid black;
-    width:30%;
-    padding:2%;
+    width:40%;
+    padding:1%;
 }
 #beef{
     background-color: #E5D198;
@@ -70,8 +70,8 @@ position:absolute;
     border-left: 2px solid black;
     border-top: 1px solid black;
     border-right: 1px solid black;
-    width:30%;
-    padding:2%;
+    width:40%;
+    padding:1%;
 }
 @media (min-width:767px) and (max-width:991px){
     .menu{
