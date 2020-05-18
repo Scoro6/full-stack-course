@@ -1,2 +1,2 @@
-# full-stack-course-assg1
+# full-stack-course
 Course Assignment 1
