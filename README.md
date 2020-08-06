@@ -1,2 +1,2 @@
-# full-stack-course
-Course Assignment 1
+# Full-Stack-Course-Coursera
+Course Assignments
